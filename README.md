@@ -1,1 +1,1 @@
-# DZ1-Jelena_Ristic
+**Kreirati klasu sa odgovarajućim atributima i metodama koja u okviru main metode sama kreira dva niza dužine 5 sa slučajnim brojevima od 0 do 100. Oba niza prikazati u dva reda odvojena tabulatorom, nakon čega ih treba spojiti u treći niz dužine 10.**
